@@ -88,7 +88,7 @@ def Brat(text, start_pixel_size, end_pixel_size, fps, seconds, bg_color, text_co
 
 if __name__ == "__main__":
     # The text to display on the GIF
-    text = "fuck"  # Input text (e.g., emoji, words, etc.)
+    text = "horny"  # Input text (e.g., emoji, words, etc.)
 
     # Parameters for the animation
     start_pixel_size = 1  # The starting size of the mosaic pixels
